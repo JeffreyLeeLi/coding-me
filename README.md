@@ -1,3 +1,3 @@
 # Coding Me
 
-This is the project that using all my skills and experience, to achieve one goal: coding me.
+This is the project that uses as many skills and experience of mine as possible, to achieve one goal: coding me.
